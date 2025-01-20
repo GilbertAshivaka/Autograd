@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python developer good at creating desktop applications using PyQt. Also working on User Interface designs and applications using Qt and C++ backend. I also do machine learning (Keras) and AI.<br> 
+Python developer good at creating desktop applications using PyQt. Also working on User Interface designs and applications using Qt and C++ backend. I also do machine learning (Keras) and niche AI stuff.<br> 
 
 
 ## 🌐 Socials:
